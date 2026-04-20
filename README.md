@@ -1,4 +1,4 @@
-#__*Exploratory Data Analysis on FIFA-18 dataset*__
+#Exploratory Data Analysis on FIFA-18 dataset
 
 __DATA CLEANING__
 
